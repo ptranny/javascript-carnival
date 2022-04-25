@@ -86,9 +86,15 @@ Open `my-reflections-sprint-5.md` in VS Code, add a `Dress a Clown` heading, and
 
 - How did you find the process of refactoring your code? 
 
+For something small like this I usually refactor as I go.
+
 - Would you do anything differently if you were to start this challenge again?
 
+Nothing different.
+
 - What piece of code are you proudest of from this exercise? 
+
+I like the code I wrote to change body parts using a switch statement. I could have given the body parts numbers and cycled through them by incrementing and decrementing, but I think referencing the object directly by name is actually much more readable.
 
 Commit and push to GitHub.
 

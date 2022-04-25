@@ -57,9 +57,17 @@ Open `my-reflections-sprint-5.md` from your reflections file in VS Code, add a `
 
 - Did you learn anything new during this exercise? What was it?
 
+It's easier to work with HTMLCollections when converted to an array  
+You can't pass any arguments to the event handler function because it just calls it
+Clarified my mental model of how the event handler function works
+
 - Did you encounter issues completing any of the steps of this exercise? How did you resolve this?
 
+I had a few issues trying to use array functions like indexOf and forEach on HTMLCollection. I was also trying to pass an argument to the event handler. A bit of Googling helped to fix it.
+
 - If you were to replace the unicorn with another mystical animal of your choice, what would it be?  
+
+A phoenix.
 
 Make sure you commit and push to GitHub.
 

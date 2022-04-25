@@ -33,6 +33,14 @@ td {
     margin: 5px;
 }
 
+#mole {
+  display: block;
+  margin: auto;
+  width: 70px;
+  height: 70px;
+}
+
+
 .dress-a-parent {
   display: block;
   margin-left: auto;

@@ -89,7 +89,11 @@ Open `my-reflections-sprint-5.md` in VS Code, add a `Whack-a-Mole` heading, and 
 
 - What was the hardest part of this exercise? 
 
+Trying to think of the most efficient way to move the mole to a new table cell. I thought about doing it by deleting and recreating the img tag each time but that seemed inelegant. When I did a bit more reading and realized that you could save and reuse a reference to a deleted DOM object I realized I could just keep the same object but give it a new parent node. That was a better method because it reflected the logic of what I was actually trying to accomplish.
+
 - Can you think of any different ways you could have accomplished the same outcome? 
+
+As above - I could have recreated the innerHTML inside the td tag each time the mole moved, but did not like that solution.
 
 Commit and push to GitHub.
 
